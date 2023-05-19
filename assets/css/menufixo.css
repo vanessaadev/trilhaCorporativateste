@@ -1,0 +1,22 @@
+.container {
+    position: relative;
+  }
+  
+  .header {
+    position: sticky;
+    top: 76px;
+    background-color: #f1f1f1; /* Cor de fundo do cabeçalho */
+    padding: 10px;
+    z-index: 1; 
+    border: 1px solid #807d7d;
+  }
+  
+
+.topNavbar {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+
+  
