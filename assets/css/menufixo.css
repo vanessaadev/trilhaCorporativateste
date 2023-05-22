@@ -1,14 +1,11 @@
-.container {
-    position: relative;
-  }
-  
-  .header {
+.header {
     position: sticky;
     top: 76px;
-    background-color: #f1f1f1; /* Cor de fundo do cabeçalho */
+    background-color: #288B52; /* Cor de fundo do cabeçalho */
     padding: 10px;
     z-index: 1; 
-    border: 1px solid #807d7d;
+    border: 1px solid #a8ca7e;
+    color: #f7feef;
   }
   
 
@@ -16,6 +13,11 @@
     position: sticky;
     top: 0;
     z-index: 2;
+}
+
+.bg-warning2 {
+  background-color: #f7cd23;
+  color: #f7feef;
 }
 
 

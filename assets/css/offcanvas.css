@@ -84,20 +84,3 @@ body {
 .lh-150 { line-height: 1.5; }
 
 
-.teste {
-  height: 100em; /* Ajuste a altura desejada da div container */
-  overflow-y: auto;
-}
-
-header {
-  position: sticky; /* posicionou o cabeçalho dessa lista em cima */
-  top: 0; 
-  color: white; 
-  z-index: 999; /* coloca o header na frente dos radios */
-  margin-bottom: 10px;
-}
-
-.corFundo {
-  background-color: #868282;
-  padding: 10px;
-}
